@@ -25,4 +25,5 @@ checkstyle {
     toolVersion = "10.12.0"
     isIgnoreFailures = false
     maxWarnings = 0
+    configDirectory.set(rootProject.layout.projectDirectory.dir("config/checkstyle"))
 }
