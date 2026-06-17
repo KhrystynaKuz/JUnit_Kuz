@@ -5,7 +5,6 @@
 
 <module name="Checker">
     <module name="TreeWalker">
-        <module name="AvoidStarImport"/>
         <module name="MethodName"/>
         <module name="MemberName"/>
         <module name="ParameterName"/>
